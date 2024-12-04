@@ -42,5 +42,5 @@ I want to continue learning and getting better at CSS Application. I'm more comf
 
 ## ⭐ Author
 
-- GitHub - [@anushkachauhxn](https://github.com/edithkaren)
-- LinkedIn - [@anushka-chauhan](https://www.linkedin.com/in/rudraksh-paliwal-316b7818b)
+- GitHub - [@eidthkaren](https://github.com/edithkaren)
+- LinkedIn - [@rudraksh-paliwal](https://www.linkedin.com/in/rudraksh-paliwal-316b7818b)
