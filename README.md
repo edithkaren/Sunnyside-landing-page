@@ -1,7 +1,6 @@
-# 🎯 Frontend Mentor - Sunnyside Agency Landing Page Solution
+Sunnyside Landing Page 
 
-This is a solution to the [Sunnyside Agency Landing Page Challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/sunnyside-agency-landing-page-7yVs3B6ef). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
-
+This is a solution to the [Sunnyside  Landing Page ]
 ## 📜 Table of contents
 
 - [Overview](#overview)
@@ -25,16 +24,6 @@ This is a solution to the [Sunnyside Agency Landing Page Challenge on Frontend M
   - View the optimal layout for the site depending on their device's screen size
   - See hover states for all interactive elements on the page
 
-### Screenshot
-
-![](./assets/screenshot.png)
-
-### Links
-
-- Solution URL: [Link](https://github.com/anushkachauhxn/frontend-mentor-projects/tree/main/projects/3-sunnyside-agency-landing-page)
-- Live Site URL: [Link](https://anushkachauhxn.github.io/frontend-mentor-projects/projects/3-sunnyside-agency-landing-page/)
-
-## 💡 My process
 
 ### Built with
 
@@ -53,8 +42,5 @@ I want to continue learning and getting better at CSS Application. I'm more comf
 
 ## ⭐ Author
 
-- GitHub - [@anushkachauhxn](https://github.com/anushkachauhxn)
-- Behance - [@anushka_creates](https://www.behance.net/anushka_creates)
-
-- LinkedIn - [@anushka-chauhan](https://www.linkedin.com/in/anushka-chauhan)
-- Twitter - [@anushka_creates](https://twitter.com/anushka_creates)
+- GitHub - [@anushkachauhxn](https://github.com/edithkaren)
+- LinkedIn - [@anushka-chauhan](https://www.linkedin.com/in/rudraksh-paliwal-316b7818b)
